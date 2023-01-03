@@ -1,0 +1,24 @@
+
+
+/* CONTAINER FOR THE ARRAY */
+.array-container {
+    position: absolute;
+    left: 20px;
+    top: 355px;
+  }
+  
+  /* EACH ARRAY IN THE CONTAINER */
+  .array-bar {
+    width: 2px;
+    background-color: cyan;
+    display: inline-block;
+    margin: 0 1px;
+  }
+  
+  /* BUTTONS */
+  .button-sort {
+    color: white;
+  text-shadow: 1px 1px 2px black, 0 0 25px blue, 0 0 5px darkblue;
+  display: flex;
+  justify-content: center;
+  }
