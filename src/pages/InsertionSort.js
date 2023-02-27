@@ -19,7 +19,7 @@ const InsertionSort = () => {
         <p class="tleft">Below is the InsertionSort Visualizer.</p>
         <Sorting props={{mergeSortNumber: 0}}></Sorting>
         <footer>
-        <h2 class="coolshadow">Made by: Matthew Tuzinowski</h2>
+        <h2 class="coolshadow">Sorting Algorithms</h2>
         </footer>
     </div>
   );
