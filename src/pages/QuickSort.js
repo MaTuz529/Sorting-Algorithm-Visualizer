@@ -19,7 +19,7 @@ const QuickSort = () => {
         <p class="tileft">Below is the QuickSort Visualizer.</p>
         <Sorting props={{mergeSortNumber: 1}}></Sorting>
         <footer>
-        <h2 class="coolshadow">Made by: Matthew Tuzinowski</h2>
+        <h2 class="coolshadow">Sorting Algorithms</h2>
         </footer>
     </div>
   );
