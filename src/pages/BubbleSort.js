@@ -18,7 +18,7 @@ const BubbleSort = () => {
         <p class="tinuleft">Below is the Bubble Sort Visualizer.</p>
         <SortingVisualizer props={{mergeSortNumber: 3}}></SortingVisualizer>
         <footer>
-        <h2 class="coolshadow">Made by: Matthew Tuzinowski</h2>
+        <h2 class="coolshadow">Sorting Algorithms</h2>
         </footer>
     </div>
   );
