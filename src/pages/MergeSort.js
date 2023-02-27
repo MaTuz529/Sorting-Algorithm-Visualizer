@@ -18,7 +18,7 @@ const MergeSort = () => {
         <p class="tinyuleft">Finds the solutions to the original problem by combinding the solutions of the subproblems.</p>  
         <SortingVisualizer props={{mergeSortNumber: 0}}></SortingVisualizer>
         <footer>
-        <h2 class="coolshadow">Made by: Matthew Tuzinowski</h2>
+        <h2 class="coolshadow">Sorting Algorithms</h2>
         </footer>
     </div>
   );
