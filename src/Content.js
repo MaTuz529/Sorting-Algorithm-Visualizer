@@ -66,7 +66,7 @@ const Content = () => {
             <p>&nbsp;</p>
             <p>&nbsp;</p>
             <footer>
-            <h2 class="centerTitle" class="coolshadow">Made by: Matthew Tuzinowski</h2>
+            <h2 class="centerTitle" class="coolshadow">Sorting Algorithms</h2>
             </footer>
         </div>
     )
